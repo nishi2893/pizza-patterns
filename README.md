@@ -3,10 +3,10 @@
 Pizza Patterns is a computer program that builds pizza orders “on the fly” so to speak with the use of factory design pattern and decorator design pattern. Starting with a base pizza of either small, medium, large or “family” size (pricing below), the program allows the cashier to add any ingredient (or even double ingredients) to the base order. Or course, each ingredient costs an additional amount and changes the description of the pizza being ordered. The program prints a description and a total price for the pizza. 
 
 The base costs are:
-•	1. Small, $8.00
-•	2. Medium, $10.00
-•	3. Large, $12.00
-•	4. Family, $16.00
+	1. Small, $8.00
+	2. Medium, $10.00
+	3. Large, $12.00
+	4. Family, $16.00
 
 The base cost covers crust, sauce and cheese. Additional ingredients are:
 •	(P)epperoni, $2.00
