@@ -6,7 +6,8 @@ The base costs are:
 * Small - $8.00 
 * Medium - $10.00 
 * Large - $12.00 
-* Family - $16.00.<br/>
+* Family - $16.00.
+
 The base cost covers crust, sauce and cheese. 
 
 Additional ingredients are: 
@@ -24,9 +25,9 @@ A small pepperoni with extra cheese prints:<br/>
             2 ingredients<br/>
 End order**
 
-I want a large pizza topped with pepperoni, sausage, extra cheese, onions, beer and beer, the program prints:
-**Order: Large with pepperoni, sausage, extra cheese, onions, beer, beer - $25.85
-            6 ingredients
+I want a large pizza topped with pepperoni, sausage, extra cheese, onions, beer and beer, the program prints:<br/>
+**Order: Large with pepperoni, sausage, extra cheese, onions, beer, beer - $25.85<br/>
+            6 ingredients<br/>
 End order**
 
 
